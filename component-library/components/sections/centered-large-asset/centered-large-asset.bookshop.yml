@@ -36,4 +36,4 @@ preview:
 _inputs:
   bgColor:
     options:
-      values: data.bg_colors
+      values: _select_data.animals
