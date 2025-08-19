@@ -609,3 +609,9 @@ _inputs:
 _structures:
   content_blocks:
     style: modal
+
+_select_data:
+  animals:
+    - Red
+    - Blue
+    - Yellow
