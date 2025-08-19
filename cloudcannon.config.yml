@@ -43,6 +43,8 @@ file_config:
                       accepts_mime_types:
                         - image/svg+xml
 data_config:
+  bg_colors:
+    path: _data/bg_colors.yml
   fonts:
     path: _data/fonts.yml
   color_groups:
