@@ -30,6 +30,12 @@ preview:
     button: bookshop:generic/button
   styles:
     color_group: "primary"
+    bgColor: "red"
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
+  bgColor:
+    options:
+      values:
+        - red
+        - blue
