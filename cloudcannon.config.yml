@@ -606,6 +606,8 @@ _inputs:
     comment: >-
       Hide/show the note that contains helpful information about the live
       editing of this component.
+  bgColor:
+    comment: Hi
 _structures:
   content_blocks:
     style: modal
