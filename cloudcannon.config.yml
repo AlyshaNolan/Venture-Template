@@ -613,7 +613,7 @@ _structures:
     style: modal
 
 _select_data:
-  animals:
+  bg_colors:
     - Red
     - Blue
     - Yellow
