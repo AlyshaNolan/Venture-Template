@@ -36,4 +36,4 @@ preview:
 _inputs:
   bgColor:
     options:
-      values: _select_data.bg_colors
+      values: data.bg_colors
