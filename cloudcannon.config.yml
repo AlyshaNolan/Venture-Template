@@ -611,9 +611,3 @@ _inputs:
 _structures:
   content_blocks:
     style: modal
-
-_select_data:
-  bg_colors:
-    - Red
-    - Blue
-    - Yellow
