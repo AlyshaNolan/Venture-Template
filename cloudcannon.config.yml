@@ -50,6 +50,9 @@ data_config:
   site:
     path: _data/site.yml
 _inputs:
+  UUID:
+    comment: Automatically generated unique ID
+    instance_value: UUID
   favicon:
     type: image
   arrow:
