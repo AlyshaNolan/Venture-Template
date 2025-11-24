@@ -51,8 +51,11 @@ data_config:
     path: _data/site.yml
 _inputs:
   UUID:
-    comment: Automatically generated unique ID
+    type: auto
     instance_value: UUID
+    cascade: true
+    options:
+      required: true
   favicon:
     type: image
   arrow:
