@@ -1,0 +1,3 @@
+uuid: id
+title: title
+another_field: some temp text
