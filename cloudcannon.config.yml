@@ -21,6 +21,13 @@ collections_config:
     disable_add: true
     disable_add_folder: true
     disable_file_actions: true
+  courses:
+    path: _data/course_data
+    icon: data_usage
+    disable_url: true
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
 file_config:
   - glob: _data/site.yml
     _inputs:
